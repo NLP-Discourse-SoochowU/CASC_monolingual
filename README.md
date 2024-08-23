@@ -7,7 +7,7 @@ Please refer to the python packages in file "./pkglist.txt"
 # Data
 Our constructed evaluation dataset can be found in "uccs-gen/data/mysql_db/test_updd.json"
 
-The pre-trained model can be found [here](https://www.google.com).
+The pre-trained model can be found [here](https://drive.google.com/file/d/1RWymbpofQWd7lTVYfRstqSoOVvHhJLy6/view?usp=drive_link).
 
 # Evaluation
 Follow the `uccs-gen/evaluate.sh` file to test the two stages separately.
