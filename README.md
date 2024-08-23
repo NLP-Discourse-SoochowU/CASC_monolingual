@@ -1,5 +1,5 @@
 # CASC
-Comprehensive Abstractive Comment Summarization with Dynamic Clustering and Chain of Thought
+Zhang et al., Comprehensive Abstractive Comment Summarization with Dynamic Clustering and Chain of Thought. ACL2024
 
 # Environment
 Please refer to the python packages in file "./pkglist.txt"
